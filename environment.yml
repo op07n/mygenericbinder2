@@ -20,5 +20,6 @@ dependencies:
     - scipy
     - matplotlib
     - pandas
+    - vega
     - pyaudio
     - nbconvert
