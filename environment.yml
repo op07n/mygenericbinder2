@@ -21,5 +21,6 @@ dependencies:
     - matplotlib
     - pandas
     - vega
+    - pydot
     - pyaudio
     - nbconvert
