@@ -23,5 +23,6 @@ dependencies:
     - vega
     - pydot
     - xlrd
+    - plotly
     - pyaudio
     - nbconvert
